@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de Actividades</title>
+    <link rel="stylesheet" href="/CSS/inicio.css">
+    <link rel="stylesheet" href="/CSS/calendario.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="/IMG/categorias/logo.png" alt="Logo del sitio">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="actividades">Actividades</a></li>
+                <li><a href="notificaciones">Notificaciones</a></li>
+                <li><a href="registro-actividades">Registro de Actividades</a></li>
+                <li><a href="actividades-propuestas">Actividades Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="categorias">
+            <h2>Categorías</h2>
+        </section>
+
+        <section id="subcategorias" style="display: none;">
+            <h2>Subcategorías</h2>
+            <div id="subcategorias-lista"></div>
+        </section>
+
+        <div id="actividades-lista"></div>
+
+
+        <section id="estadisticas">
+            <div id="conteo-actividades">
+                <h2>Actividades</h2>
+                <p>Actividades inscritas: <span id="actividades-inscritas">0</span></p>
+                <p>Actividades organizadas: <span id="actividades-organizadas">0</span></p>
+                <p>Actividades en espera: <span id="actividades-espera">0</span></p>
+                <p>Actividades aceptadas: <span id="actividades-aceptadas">0</span></p>
+            </div>
+        </section>
+
+        <section id="actividades-recientes">
+            <h2></h2>
+        </section>
+
+        <section id="calendario">
+            <div class="calendar dark">  
+                <div class="calendar-header">
+                    <span class="month-picker" id="month-picker">February</span>
+                    <div class="year-picker">
+                        <span class="year-change" id="prev-year">&lt;</span>
+                        <span id="year">2021</span>
+                        <span class="year-change" id="next-year">&gt;</span>
+                    </div>
+                </div>
+                <div class="calendar-body">
+                    <div class="calendar-week-day">
+                        <div>Lun</div>
+                        <div>Mar</div>
+                        <div>Mie</div>
+                        <div>Jue</div>
+                        <div>Vie</div>
+                        <div>Sab</div>
+                        <div>Dom</div>
+                    </div>
+                    <div class="calendar-days"></div>
+                </div>
+                <div class="month-list"></div>
+            </div>
+        </section>
+    </main>
+
+    <script src="JS/calendario.js"></script>
+    <script src="JS/mostrarCategorias.js"></script>
+    
+  
+</body>
+</html>
