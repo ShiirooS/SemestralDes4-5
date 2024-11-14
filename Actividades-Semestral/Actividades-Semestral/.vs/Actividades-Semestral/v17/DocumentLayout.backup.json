@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\",
+  "WorkspaceRootPath": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\anah_\\downloads\\actividades-semestral\\actividades-semestral\\actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\anah_\\downloads\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\anah_\\downloads\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\actividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\controllers\\actividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\anah_\\downloads\\actividades-semestral\\actividades-semestral\\actividades-semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\actividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\controllers\\actividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ActividController.cs",
-              "DocumentMoniker": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\ActividController.cs",
-              "RelativeDocumentMoniker": "Actividades-Semestral\\Controllers\\ActividController.cs",
-              "ToolTip": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\ActividController.cs",
-              "RelativeToolTip": "Actividades-Semestral\\Controllers\\ActividController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:41:31.052Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\appsettings.json",
+              "RelativeDocumentMoniker": "Actividades-Semestral\\appsettings.json",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\appsettings.json",
+              "RelativeToolTip": "Actividades-Semestral\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T20:41:12.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ActividController.cs",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\ActividController.cs",
+              "RelativeDocumentMoniker": "Actividades-Semestral\\Controllers\\ActividController.cs",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\ActividController.cs",
+              "RelativeToolTip": "Actividades-Semestral\\Controllers\\ActividController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:41:31.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Categoria.cs",
               "RelativeToolTip": "Actividades-Semestral\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T23:07:52.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T23:07:52.154Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "Actividades-Semestral\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T22:18:31.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Program.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Program.cs",
-              "ToolTip": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Program.cs",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Program.cs",
               "RelativeToolTip": "Actividades-Semestral\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:09:24.867Z"
+              "WhenOpened": "2024-11-12T01:09:24.867Z",
+              "EditorCaption": ""
             }
           ]
         }
