@@ -37,8 +37,8 @@
     padding: 20px;
     position: relative;
     overflow: hidden;
-    top: -260px;
-    left: 25px;
+    top: 30px;
+    left: 15px;
 }
 
 .dark .calendar {

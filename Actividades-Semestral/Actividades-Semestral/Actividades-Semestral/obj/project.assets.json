@@ -6695,11 +6695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
+      "projectUniqueName": "C:\\Users\\anah_\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
       "projectName": "Actividades-Semestral",
-      "projectPath": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
+      "projectPath": "C:\\Users\\anah_\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
       "packagesPath": "C:\\Users\\anah_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\obj\\",
+      "outputPath": "C:\\Users\\anah_\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

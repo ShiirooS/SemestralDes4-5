@@ -9,8 +9,8 @@
 </head>
 <body>
     <header>
-        <div class="logo">
-            <img src="/IMG/categorias/logo.png" alt="Logo del sitio">
+        <div class="logo"> 
+             <img src="/IMG/logo.png" alt="Logo del sitio"> 
         </div>
         <nav>
             <ul>
@@ -24,30 +24,25 @@
     </header>
 
     <main>
+        <section class="fondo-img">
+            <img src="/IMG/fondo.jpg" alt="Imagen de fondo">
+        </section>
+
         <section id="categorias">
-            <h2>Categorías</h2>
+        
         </section>
 
         <section id="subcategorias" style="display: none;">
-            <h2>Subcategorías</h2>
-            <div id="subcategorias-lista"></div>
-        </section>
-
-        <div id="actividades-lista"></div>
-
-
-        <section id="estadisticas">
-            <div id="conteo-actividades">
-                <h2>Actividades</h2>
-                <p>Actividades inscritas: <span id="actividades-inscritas">0</span></p>
-                <p>Actividades organizadas: <span id="actividades-organizadas">0</span></p>
-                <p>Actividades en espera: <span id="actividades-espera">0</span></p>
-                <p>Actividades aceptadas: <span id="actividades-aceptadas">0</span></p>
+            <div class="subcategorias-contenedor">
+                <button class="scroll-btn" id="scroll-left">&#9664;</button>
+                <div id="subcategorias-lista" class="subcategorias-lista"></div>
+                <button class="scroll-btn" id="scroll-right">&#9654;</button>
             </div>
         </section>
 
-        <section id="actividades-recientes">
-            <h2></h2>
+        <section id="actividades" style="display: none;">
+            <h2>Actividades</h2>
+            <div id="actividades-lista"></div>
         </section>
 
         <section id="calendario">
@@ -77,9 +72,13 @@
         </section>
     </main>
 
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Gestor de Actividades. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
     <script src="JS/calendario.js"></script>
-    <script src="JS/mostrarCategorias.js"></script>
-    
-  
+    <script src="/JS/mostrarCategorias.js"></script>
 </body>
 </html>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOx90CwjS9w=",
+  "dgSpecHash": "upm26mr770A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anah_\\Downloads\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
+  "projectFilePath": "C:\\Users\\anah_\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anah_\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\anah_\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
