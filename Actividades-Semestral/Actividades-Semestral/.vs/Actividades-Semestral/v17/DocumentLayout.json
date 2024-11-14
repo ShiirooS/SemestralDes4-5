@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\models\\actividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\models\\actividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|solutionrelative:actividades-semestral\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B8FFBB3-5205-4A8C-A0BB-35395949CF6B}|Actividades-Semestral\\Actividades-Semestral.csproj|c:\\users\\bferr\\repositorio\\semestraldes4-5\\actividades-semestral\\actividades-semestral\\actividades-semestral\\controllers\\actividcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Actividade.cs",
+              "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Actividade.cs",
+              "RelativeDocumentMoniker": "Actividades-Semestral\\Models\\Actividade.cs",
+              "ToolTip": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Actividade.cs",
+              "RelativeToolTip": "Actividades-Semestral\\Models\\Actividade.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\appsettings.json",
               "RelativeDocumentMoniker": "Actividades-Semestral\\appsettings.json",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ActividController.cs",
               "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\ActividController.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Controllers\\ActividController.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Models\\Categoria.cs",
@@ -67,11 +84,12 @@
               "RelativeToolTip": "Actividades-Semestral\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T23:07:52.154Z"
+              "WhenOpened": "2024-11-12T23:07:52.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Controllers\\CategoriasController.cs",
@@ -83,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bferr\\Repositorio\\SemestralDes4-5\\Actividades-Semestral\\Actividades-Semestral\\Actividades-Semestral\\Program.cs",
               "RelativeDocumentMoniker": "Actividades-Semestral\\Program.cs",

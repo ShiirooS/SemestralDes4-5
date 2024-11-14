@@ -209,6 +209,7 @@ main {
     border-bottom: none;
     overflow: hidden; 
 }
+
 .buscador{
     width: max-content;
     display: flex;
@@ -230,10 +231,10 @@ main {
     width: 300px;
     flex: 1;
 }
-
 .buscador-entrada ::placeholder,.buscador-icon{
     color: rgba(0, 0, 0, 0.5);
 }
+
 footer {
     background-color: #05113b;
     color: #fff;
